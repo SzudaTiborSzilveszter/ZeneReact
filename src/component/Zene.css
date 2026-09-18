@@ -1,0 +1,28 @@
+.Zene{
+    border: 1px solid white;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.Zene-kep{
+    display: block;
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+article{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px;
+    width: 80%;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.Eloado{
+    color: gold;
+}
+
