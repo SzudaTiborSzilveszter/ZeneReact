@@ -12,20 +12,20 @@ export const ZENELISTA:ZeneTipus[]=[
         nev:"Shakira",
         cim:"Hips Don't Lie",
         ev: 2006,
-        kep:"/kepek/shakira.jpg"
+        kep:"/ZeneReact/kepek/shakira.jpg"
     },
     {
         id: 2,
         nev:"Michael Jackson",
         cim:"Billie Jean",
         ev: 1983,
-        kep:"/kepek/michael.jpg"
+        kep:"/ZeneReact/kepek/michael.jpg"
     },
     {
         id: 3,
         nev:"Eminem",
         cim:"Without Me",
         ev: 2002,
-        kep:"/kepek/eminem.jpg"
+        kep:"/ZeneReact/kepek/eminem.jpg"
     }
 ]
